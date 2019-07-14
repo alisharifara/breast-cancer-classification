@@ -1,2 +1,2 @@
 # breast-cancer-classification
-Random Forest classifier is used for this classification
+The goal of this project is to classify breast cancer tumors into malignant or benign groups using Random Forest classification.
